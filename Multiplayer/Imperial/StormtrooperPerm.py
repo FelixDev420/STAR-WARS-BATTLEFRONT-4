@@ -1,3 +1,4 @@
+bpy.ops.wm.collada_import(filepath="STAR–WARS–4/Multiplayer/Imperial/Models/stormtrooper.dae")
 move = True
 jump = True
 fly = False
