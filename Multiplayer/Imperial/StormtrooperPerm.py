@@ -125,7 +125,7 @@ if a == HelmetFemaleHead
    switch = True
 if a == HelmetMaleHead
    switch = True 
-if a == X-8NightSniper
+if a == X-8-NightSniper
    shoot = True
 if a == EE-4
    shoot = True
