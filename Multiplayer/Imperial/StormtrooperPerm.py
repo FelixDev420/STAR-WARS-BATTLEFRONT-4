@@ -117,7 +117,7 @@ if a == ImpShortCut1Head
    switch = True
 if a == ImpBobCut2Head
    switch = True
-if a == ImpBobCut1Head
+if a == ImpBobCut3Head
    switch = True
 if a == ImpBraidedBrownHead
    switch = True
@@ -159,4 +159,12 @@ if a == R5-D4DROID
    activate = True
 if a == ImpShortCut2Head
    switch = True
-if a == Imp
+if a == ImpBobCut4Head
+   switch = True
+if a == ImpBobCut5Head
+   switch = True
+if a == ImpBobCut6Head
+   switch = true
+if a == ImpShortCut2Head
+   switch = True
+if
