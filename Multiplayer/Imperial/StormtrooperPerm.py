@@ -157,4 +157,6 @@ if a == Dissruption
    activate = True
 if a == R5-D4DROID
    activate = True
-if a ==
+if a == ImpShortCut2Head
+   switch = True
+if a == Imp
