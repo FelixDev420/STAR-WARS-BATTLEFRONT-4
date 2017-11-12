@@ -167,4 +167,27 @@ if a == ImpBobCut6Head
    switch = true
 if a == ImpShortCut2Head
    switch = True
-if
+if a == ImpShortCut3Head
+   switch = True
+if a == ImpShortCut4Head
+   switch = True
+if a == ImpShortCut5Head
+   switch = True
+if a == ImpBald1Head
+   switch = True
+if a == ImpBald2Head
+   switch = True
+if a == ImpBald3Head
+   switch = True
+if a == ImpBald4Head
+   switch = True
+if a == ImpBald5Head
+   switch = True
+if a == ImpBaldBeard1Head
+   switch = True
+if a == ImpBaldBeard2Head
+   switch = True
+if a == ImpBaldBeard3Head
+   switch = True
+if a == ImpBaldBeard4Head
+   switch = True
