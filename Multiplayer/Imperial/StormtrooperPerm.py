@@ -157,3 +157,4 @@ if a == Dissruption
    activate = True
 if a == R5-D4DROID
    activate = True
+if a ==
