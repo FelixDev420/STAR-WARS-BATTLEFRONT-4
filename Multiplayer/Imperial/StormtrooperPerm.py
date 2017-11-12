@@ -1,4 +1,4 @@
-bpy.ops.wm.collada_import(filepath="STAR–WARS–4/Multiplayer/Imperial/Models/stormtrooper.dae")
+bpy.ops.wm.collada_import(filepath="STAR–WARS–BATTLEFRONT-4/Multiplayer/Imperial/Models/stormtrooper.dae")
 move = True
 jump = True
 fly = False
@@ -6,7 +6,9 @@ sprint = True
 shoot = True
 hit = False
 throw = False
-activate = false
+activate = False
+switch = False
+zoom = False
 if a == jetpack
    fly = True
 if a == RebelPlayer
@@ -43,4 +45,115 @@ if a == Explosiver Schuss
    activate = True
 if a == Feuer bündeln
    activate = True
-if a == 
+if a == Ionenschuss
+   activate = True
+if a == Ionentorpedo
+   activate = True
+if a == Körperschild
+   activate = True
+if a == Scan-Impuls
+   activate = True
+if a == Adrenalin-Stimulator
+   activate = True
+if a == A280C
+   shoot = True
+if a == CA87
+   shoot = True
+if a == DH17
+   shoot = True
+if a == DL44
+   shoot = True
+if a == DLT19
+   shoot = True
+if a == E11
+   shoot = True
+if a == EE3
+   shoot = True
+if a == RTR97C
+   shoot = True
+if a == SE14C
+   shoot = True
+if a == T21
+   shoot = True
+if a == T21B
+   shoot = True
+if a == DL18
+   shoot = True
+if a == DLT19X
+   shoot = True
+if a == ReblyV10
+   shoot = True
+if a == DT12
+   shoot = True
+if a == Blasterkanone
+   shoot = True
+if a == Infanteriegeschütz
+   shoot = True
+if a == Orbitalangriff
+   activate = True
+if a == Annäherungsbombe
+   activate = True
+if a == Sensordroide
+   Sensordroide = 1
+if a == Intelligente Rakete
+   shoot = True
+if a == Thermalimploder
+   activate = True
+if a == Fahrzeuggeschütz
+   shoot = True
+if a == Disruptorgewehr
+   shoot = True
+if a == TIE-Jäger
+   activate = True
+if a == TIE-Abfangjäger
+   activate = True
+if a == AT-AT
+   activate = True
+if a == AT-ST
+   activate = True
+if a == Speeder
+   activate = True
+if a == ImpShortCut1Head
+   switch = True
+if a == ImpBobCut2Head
+   switch = True
+if a == ImpBobCut1Head
+   switch = True
+if a == ImpBraidedBrownHead
+   switch = True
+if a == HelmetFemaleHead
+   switch = True
+if a == HelmetMaleHead
+   switch = True 
+if a == X-8NightSniper
+   shoot = True
+if a == EE-4
+   shoot = True
+if a == K-16BryarPistol
+   shoot = True
+if a == TL-50HeavyRepeater
+   shoot = True
+if a == DT-29
+   shoot = True
+if a == A180
+   shoot = True
+if a == Barrage
+   shoot = True
+if a == Ferngläser
+   zoom = True
+if a == DioxisGranate
+   throw = True
+if a == SchockGranate
+   throw = True
+if a == MedizinischerDroide
+   activate = True
+if a == PersonnelMine
+   throw = True
+if a == SonicImplodierer
+   activate = True
+if a == FokussierenderSchuss
+   activate = True
+if a == Dissruption
+   activate = True
+if a == R5-D4DROID
+   activate = True
