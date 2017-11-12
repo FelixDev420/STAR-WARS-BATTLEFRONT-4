@@ -129,9 +129,9 @@ if a == X-8-NightSniper
    shoot = True
 if a == EE-4
    shoot = True
-if a == K-16BryarPistol
+if a == K-16-BryarPistol
    shoot = True
-if a == TL-50HeavyRepeater
+if a == TL-50-HeavyRepeater
    shoot = True
 if a == DT-29
    shoot = True
