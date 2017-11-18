@@ -191,3 +191,9 @@ if a == ImpBaldBeard3Head
    switch = True
 if a == ImpBaldBeard4Head
    switch = True
+if a == ImpLongTop1Head
+   switch = True
+if a == ImpLongTop2Head
+   switch = True
+if a == ImpLongTop3Head
+   switch = True
